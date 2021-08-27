@@ -289,7 +289,7 @@ footer {
 }
 
 .footer-content .contact {
-  color: #9de772;
+  color: rgba(42, 116, 14, 0.51);
   text-decoration: none;
   transition: 0.2s;
 }
