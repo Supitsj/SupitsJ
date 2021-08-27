@@ -78,12 +78,12 @@ nav {
 }
 
 .hairline-left {
-  background-image: linear-gradient(to left, #2183ff, #0c111e);
+  background-image: linear-gradient(to left, #67ff21, #4a9909);
   margin-right: 20px;
 }
 
 .hairline-right {
-  background-image: linear-gradient(to right, #2183ff, #0c111e);
+  background-image: linear-gradient(to right, #67ff21, #4a9909);
   margin-left: 20px;
 }
 
@@ -94,12 +94,12 @@ nav {
 }
 
 .title-blue {
-  color: #2183ff;
+  color: #85ff21;
 }
 
 .link {
   text-decoration: none;
-  color: rgb(154, 176, 194);
+  color: rgb(39, 172, 5);
   margin-left: 5px;
   margin-bottom: 1px;
   transition: 0.2s;
@@ -136,7 +136,7 @@ nav {
   margin: 7px;
   width: calc(20% - 14px);
   height: 253px;
-  background-color: rgba(25, 36, 61, 0.51);
+  background-color: rgba(42, 116, 14, 0.51);
   border-radius: 5px;
 }
 
@@ -154,7 +154,7 @@ nav {
 
 .image span {
   margin-top: 30px;
-  color: #7f89a5;
+  color: #6ffc76;
   font-weight: 300;
 }
 
@@ -165,7 +165,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(31, 43, 72, 0.41);
+  background-color: rgba(131, 253, 115, 0.41);
 }
 
 .code {
@@ -187,8 +187,8 @@ nav {
   outline: none;
   width: 100%;
   height: 59px;
-  box-shadow: 0px 3px 0 0 #0d54b1;
-  background-color: #2183ff;
+  box-shadow: 0px 3px 0 0 #4df809;
+  background-color: #85ff21;
   border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
   transition: background-color 0.2s, transform 0.1s;
@@ -197,7 +197,7 @@ nav {
 }
 
 .btn:hover {
-  background-color: rgb(16, 117, 248);
+  background-color: rgb(35, 248, 16);
 }
 
 .btn:active {
@@ -244,13 +244,13 @@ nav {
 }
 
 .fas {
-  color: rgb(49, 128, 233);
+  color: rgb(162, 233, 49);
   margin-bottom: 3px;
   margin-right: 5px;
 }
 
 .fab {
-  color: rgb(49, 128, 233);
+  color: rgb(132, 233, 49);
   margin-bottom: 3px;
 }
 
@@ -288,7 +288,7 @@ footer {
 }
 
 .footer-content .contact {
-  color: #4d618d;
+  color: #9de772;
   text-decoration: none;
   transition: 0.2s;
 }
@@ -317,12 +317,12 @@ footer {
   padding-left: 8.4vw;
   font-size: 14px;
   word-spacing: 2px;
-  color: #4d618d;
+  color: #98fc26;
 }
 
 .flink {
   text-decoration: none;
-  color: #4d618d;
+  color: #99ff5e;
   margin-left: 5px;
   margin-bottom: 1px;
   transition: 0.2s;
